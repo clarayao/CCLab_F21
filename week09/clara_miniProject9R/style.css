@@ -1,0 +1,90 @@
+h2 {
+  font-family: 'Pacifico', cursive;
+  font-weight: 100;
+  font-size: 30px
+}
+
+p {
+  font-family: 'Caveat', cursive;
+  font-size: 30px
+  /* font-weight: 50; */
+}
+
+#page1_bg {
+  background-image: url(background.jpg);
+}
+.page1_h1_bg {
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  background-image: url(head1_background.jpg);
+}
+.b_color1 {
+  background: rgba(251, 238, 230, 0.5)
+}
+.b_color2 {
+  background: rgba(246, 221, 204, 0.5);
+}
+.b_color3 {
+  background: rgba(237, 187, 153, 0.5);
+}
+.b_color4 {
+  background: rgba(229, 152, 102, 0.5);
+}
+.b_color5 {
+  background: rgba(220, 118, 51, 0.5);
+}
+.b_color6 {
+  background: rgba(211, 84, 0, 0.5);
+}
+.b_color7 {
+  background: rgba(186, 74, 0, 0.5);
+}
+.b_color8 {
+  background: rgba(160, 64, 0, 0.5);
+}
+.b_color9 {
+  background: rgba(135, 54, 0, 0.5);
+}
+.b_color10 {
+  background: rgba(110, 44, 0, 0.5);
+}
+
+#page2_bg {
+  background-image: url(flames.jpg);
+  background-size: 1550px 885px
+}
+ul {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 30px
+}
+.page2_h1_bg {
+  font-family: 'Lobster', cursive;
+  font-size: 40px;
+  background: rgba(251, 238, 230, 0.5)
+}
+
+#page3_bg {
+  background-image: url(stars.jpg);
+}
+#page3_h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 40px
+}
+/* .planet {
+  height: 100px;
+  width: 100px;
+  background: white;
+  border-radius: 50%;
+
+}
+.star {
+  height: 10px;
+  width: 10px;
+  background: white;
+  border-radius: 50%;
+  display:table-cell;
+  vertical-align: middle;
+  transition-property: bottom, left;
+  transition-duration: 1s, 1s;
+  transition-delay: 0s, 1s;
+} */
