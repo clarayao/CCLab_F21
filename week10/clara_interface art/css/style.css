@@ -1,0 +1,75 @@
+/* html, body {
+  margin: 0;
+  padding: 0;
+} */
+
+#canvasContainer {
+  position: absolute;
+  left:20px;
+  top:20px;
+  bottom: 100px;
+}
+
+#generateButton {
+  background-color: rgb(29, 185, 195, 2);
+  position: absolute;
+  left:1350px;
+  top:50px;
+}
+
+#stopButton {
+  background-color: rgb(29, 185, 195, 2);
+  position: absolute;
+  left:1350px;
+  top:100px;
+}
+
+#stroke {
+  background-color: rgb(29, 185, 195, 2);
+  position:absolute;
+  left:1350px;
+  top:200px;
+}
+
+#stroke_instruction {
+  background-color: rgb(29, 185, 195, 2);
+  width: 150px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  position: absolute;
+  left:1350px;
+  top:150px;
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+#instruction {
+  /* width:20px; */
+  position: absolute;
+
+  left: 1330px;
+  top: 20px;
+  height: 1000;
+}
+
+/* #strokeN {
+  position: absolute;
+  left:1500px;
+  top:150px;
+  width:45px;
+}
+
+#darkness {
+  position: absolute;
+  left:1350px;
+  top:200px;
+}
+
+#darknessN {
+  position:absolute;
+  left:1500px;
+  top:200px;
+  width:45px;
+} */
