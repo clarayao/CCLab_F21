@@ -20,7 +20,7 @@ canvas {
   left: 50%;
   top: 5%;
 
-  background-image: url("/assets/food.jpg");
+  background-image: url("https://clarayao.github.io/CCLab_F21/clara_project_b/assets/food.jpg");
 }
 #q1 {
   width: 300px;
@@ -51,7 +51,7 @@ canvas {
   left: 75%;
   top: 5%;
 
-  background-image: url("/assets/purchase.jpg");
+  background-image: url("https://clarayao.github.io/CCLab_F21/clara_project_b/assets/purchase.jpg");
 }
 #q2 {
   width: 300px;
@@ -82,7 +82,7 @@ canvas {
   left: 50%;
   top: 36%;
 
-  background-image: url("/assets/household_appliances.jpg");
+  background-image: url("https://clarayao.github.io/CCLab_F21/clara_project_b/assets/household_appliances.jpg");
 }
 #q3 {
   width: 300px;
@@ -119,7 +119,7 @@ canvas {
   left: 75%;
   top: 36%;
 
-  background-image: url("/assets/transportation.jpg");
+  background-image: url("https://clarayao.github.io/CCLab_F21/clara_project_b/assets/transportation.jpg");
 }
 #q4 {
   width: 300px;
