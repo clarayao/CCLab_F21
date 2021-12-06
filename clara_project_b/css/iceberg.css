@@ -1,0 +1,182 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#q1_t {
+  width: 300px;
+  height: 30px;
+
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-right: 0px;
+
+  position: absolute;
+  left: 50%;
+  top: 5%;
+
+  background-image: url("/assets/food.jpg");
+}
+#q1 {
+  width: 300px;
+  height: 120px;
+
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 40px;
+  padding-right: 0px;
+
+  position: absolute;
+  left: 50%;
+  top: 14%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+
+#q2_t {
+  width: 300px;
+  height: 30px;
+
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-right: 0px;
+
+  position: absolute;
+  left: 75%;
+  top: 5%;
+
+  background-image: url("/assets/purchase.jpg");
+}
+#q2 {
+  width: 300px;
+  height: 120px;
+
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 40px;
+  padding-right: 0px;
+
+  position: absolute;
+  left: 75%;
+  top: 14%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+
+#q3_t {
+  width: 300px;
+  height: 25px;
+
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-right: 0px;
+
+  position: absolute;
+  left: 50%;
+  top: 36%;
+
+  background-image: url("/assets/household_appliances.jpg");
+}
+#q3 {
+  width: 300px;
+  height: 100px;
+
+  /* padding: 10px 20px 10px 20px; */
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-right: 0px;
+
+  /* margin-top: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  margin-bottom: 80px; */
+
+  position: absolute;
+  left: 50%;
+  top: 44%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+
+#q4_t {
+  width: 300px;
+  height: 25px;
+
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-right: 0px;
+
+  position: absolute;
+  left: 75%;
+  top: 36%;
+
+  background-image: url("/assets/transportation.jpg");
+}
+#q4 {
+  width: 300px;
+  height: 100px;
+
+  /* padding: 10px 20px 10px 20px; */
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-right: 0px;
+
+  /* margin-top: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  margin-bottom: 80px; */
+
+  position: absolute;
+  left: 75%;
+  top: 44%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+
+#generate {
+    position: absolute;
+    left: 69.5%;
+    top: 65%;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    /* border-radius: 10px; */
+    background-color: rgba(46, 134, 193, 1);
+}
+
+#generate:hover {
+    background-color: rgba(52, 152, 219 , 1);
+}
+
+a {
+  width:30px;
+  height:30px;
+  text-decoration: none;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  border: 0;
+  line-height: 2.5;
+  padding: 0 0px;
+  font-size: 10px;
+  text-align: center;
+  color: #fff;
+  /* border-radius: 10px; */
+  background-color: rgba(93, 173, 226, 0.8);
+}
+a:hover {
+    background-color: rgba(52, 152, 219 , 1);
+}

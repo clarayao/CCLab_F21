@@ -1,0 +1,37 @@
+.title {
+  font-size: 20px;
+  font-family: 'Freckle Face', cursive;
+  width: 35%;
+  height: 5%;
+
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 40px;
+  padding-right: 0px;
+
+  position: absolute;
+  left: 5%;
+  top: 5%;
+
+  background-color: rgba(33, 97, 140, 0.4);
+}
+
+.content {
+  font-family: 'Rajdhani', sans-serif;
+  width: 35%;
+  height: 43%;
+
+  padding-top: 0px;
+  padding-left: 20px;
+  padding-bottom: 30px;
+  padding-right: 0px;
+
+  position: absolute;
+  left: 5%;
+  top: 17%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+a {
+  color: black;
+}

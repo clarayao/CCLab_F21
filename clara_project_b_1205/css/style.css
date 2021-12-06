@@ -1,0 +1,114 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#q1 {
+  width: 300px;
+  height: 200px;
+
+  /* padding: 10px 20px 10px 20px; */
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 0px;
+
+  /* margin-top: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  margin-bottom: 80px; */
+
+  position: absolute;
+  left: 50%;
+  top: 5%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+
+#q2 {
+  width: 300px;
+  height: 200px;
+
+  /* padding: 10px 20px 10px 20px; */
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 0px;
+
+  /* margin-top: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  margin-bottom: 80px; */
+
+  position: absolute;
+  left: 75%;
+  top: 5%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+
+#q3 {
+  width: 300px;
+  height: 170px;
+
+  /* padding: 10px 20px 10px 20px; */
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 0px;
+
+  /* margin-top: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  margin-bottom: 80px; */
+
+  position: absolute;
+  left: 50%;
+  top: 36%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+
+#q4 {
+  width: 300px;
+  height: 170px;
+
+  /* padding: 10px 20px 10px 20px; */
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 0px;
+
+  /* margin-top: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  margin-bottom: 80px; */
+
+  position: absolute;
+  left: 75%;
+  top: 36%;
+
+  background-color: rgba(93, 173, 226, 0.4);
+}
+
+#generate {
+    position: absolute;
+    left: 69.5%;
+    top: 68%;
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    /* border-radius: 10px; */
+    background-color: rgba(46, 134, 193, 1);
+}
+
+#generate:hover {
+    background-color: rgba(52, 152, 219 , 1);
+}
